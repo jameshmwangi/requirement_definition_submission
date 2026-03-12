@@ -1,0 +1,7 @@
+ER DIAGRAM : https://drive.google.com/file/d/1uK_psI082Q64UfslzUuqqXONbdv41Iw4/view?usp=sharing
+SCREEN Transitions : https://drive.google.com/file/d/1VF5qxMd46j2P22QMaqipmMcy0Io2juwm/view?usp=sharing
+Wireframe : https://www.figma.com/design/SiU7c8cVkjiO08KDq4ynM1/Rafiki-HouseHunters-Wireframe?node-id=0-1&p=f
+wireframe in prototype view : https://www.figma.com/proto/SiU7c8cVkjiO08KDq4ynM1/Rafiki-HouseHunters-Wireframe?node-id=0-1&t=oc73q016QURKdqxE-1
+
+Catalog Design : https://docs.google.com/spreadsheets/d/1_a6JiZ6Xu8AdPUmqbndPVV9HY6_A1AmmBom0mZ-VVAc/edit?usp=sharing
+Table Definition : https://docs.google.com/spreadsheets/d/1_a6JiZ6Xu8AdPUmqbndPVV9HY6_A1AmmBom0mZ-VVAc/edit?usp=sharing
