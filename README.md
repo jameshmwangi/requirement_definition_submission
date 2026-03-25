@@ -17,11 +17,11 @@ $ rails s
 
 ## Catalog Design
 
-[View Catalog Design](https://docs.google.com/spreadsheets/d/1_a6JiZ6Xu8AdPUmqbndPVV9HY6_A1AmmBom0mZ-VVAc/edit?usp=sharing)
+[View Catalog Design](https://docs.google.com/spreadsheets/d/1m2TZuA3BukalFq6YFp4u5iI1dWfoz54Je2bb8bLtF_U/edit?usp=sharing)
 
 ## Table Definitions
 
-[View Table Definitions](https://docs.google.com/spreadsheets/d/1_a6JiZ6Xu8AdPUmqbndPVV9HY6_A1AmmBom0mZ-VVAc/edit?usp=sharing)
+[View Table Definitions](https://docs.google.com/spreadsheets/d/1m2TZuA3BukalFq6YFp4u5iI1dWfoz54Je2bb8bLtF_U/edit?usp=sharing)
 
 
 ## Wireframes
